@@ -1,0 +1,15 @@
+Script started on 2022-03-10 23:24:26+02:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="107" LINES="25"]
+7]2;jeme@nullpointer:...ers/script-answers]1;nullpointer8jeme@nullpointer:~/Documents/koodaus/web/full-stack-open-containers/script-answers> exitdocer run -it ubuntu bas
+sh
+[Ajeme@nullpointer:~/Documents/koodaus/web/full-stack-open-containers/script-answers> docer run -it ubuntu bker run -it ubuntu bash[Ae@nullpointer:~/Documents/koodaus/web/full-stack-open-containers/script-answers> dock
+
+
+]0;root@e72af80c5cfb: /root@e72af80c5cfb:/# 
+[K]0;root@e72af80c5cfb: /root@e72af80c5cfb:/# mkdir /usr/src/app
+]0;root@e72af80c5cfb: /root@e72af80c5cfb:/# mk  touch /usr/src/app/index.js
+]0;root@e72af80c5cfb: /root@e72af80c5cfb:/# [Kexit
+exit
+e7]2;jeme@nullpointer:...ers/script-answers]1;nullpointer8jeme@nullpointer:~/Documents/koodaus/web/full-stack-open-containers/script-answers> [Kexit
+exit
+
+Script done on 2022-03-10 23:24:54+02:00 [COMMAND_EXIT_CODE="0"]
