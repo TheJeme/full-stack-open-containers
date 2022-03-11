@@ -1,0 +1,21 @@
+MONGO_URL=mongodb://root:the_password@localhost:3456/the_database npm run dev
+
+docker exec -it backend bash
+
+mongo
+
+mongo -u root -p example
+
+show dbs
+
+use the_database
+
+show collections
+
+db.todos.find({})
+
+db.todos.insertOne( { text: "Increase the number of tools in my toolbelt", done: false } )
+
+db.todos.find({})
+
+exit
